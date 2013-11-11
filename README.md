@@ -17,7 +17,6 @@ Technologies and Techniques Learned and Implemented :
 
 Run the project
 ====
-    mysql -u root -p -h localhost osc <localhost.sql
-    //Upload the files to the /var/www/ (root folder of the Apache2 Server)
-    Browse through and access the index.php
-    
+    mysql -u root -p -h localhost osc <localhost.sql 
+    Upload the files to the /var/www/ (root folder of the Apache2 Server)
+    Run the Apache2 Server (with PHP) and access http://localhost on your favorite browser !!
